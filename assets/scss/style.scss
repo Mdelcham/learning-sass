@@ -1,0 +1,13 @@
+$color: white;
+html {
+	font-size: (14/16) * 1em;
+}
+
+body {
+background-image: url(font.png);
+width: 400px;
+	p{
+		color: $color;
+		align-content: justify;
+	}
+}
